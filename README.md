@@ -10,11 +10,11 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://in.linkedin.com/in/sourav-mohapatra0107">
-<img align="left" alt="Sourav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/iabhishekparida/">
+<img align="left" alt="Abhishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/MohapatraSourav">
-  <img align="left" alt="Sourav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/AbhiParida">
+  <img align="left" alt="Abhishek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br />
